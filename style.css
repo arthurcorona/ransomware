@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Righteous', 'sans-serif';
+    background-color: blueviolet;
+}
+
+.maintitle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.door{
+    margin-top: 40px;
+    width: 130px;
+    height: 200px;
+    cursor: pointer;
+}
