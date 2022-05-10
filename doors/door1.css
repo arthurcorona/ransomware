@@ -4,12 +4,26 @@
     font-family: 'Righteous', 'sans-serif';
 }
 
-button{
-    padding: 8px;
+#container{
+    margin-top: 8%;
+    text-align: center;
 }
 
 .title{
-    
+    position: absolute;
+    left: 38%;
+    top: 3%;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+button{
+    position: relative;
+    left: 35%;
+    padding: 5px;
+
 }
 
 #concordo{
@@ -18,4 +32,14 @@ button{
 
 #discordo{
     display: none;
+}
+
+p{
+    margin-bottom: 11px;
+    margin-left: 14px;
+}
+
+.negrito{
+    font-size: 20px;
+    color: blue;
 }
