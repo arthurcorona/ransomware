@@ -9,10 +9,11 @@
     text-align: center;
 }
 
-.title{
+#title{
     position: absolute;
     left: 38%;
     top: 3%;
+    display: block;
 }
 
 h1{
@@ -23,7 +24,7 @@ button{
     position: relative;
     left: 35%;
     padding: 5px;
-
+    border-radius: 12px;
 }
 
 #concordo{
