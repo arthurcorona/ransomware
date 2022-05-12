@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     font-family: 'Righteous', 'sans-serif';
+    background: blueviolet;
 }
 
 #container{
@@ -36,11 +37,24 @@ button{
 }
 
 p{
+    font-size: 20px;
     margin-bottom: 11px;
     margin-left: 14px;
 }
 
 .negrito{
-    font-size: 20px;
-    color: blue;
+    font-size: 30px;
+    color: white;
+}
+
+button:hover {
+    background-color:white ;
+}
+
+.maquiavel {
+    
+}
+
+.lastp {
+    margin-bottom: 60px;
 }
