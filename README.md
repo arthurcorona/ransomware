@@ -1,4 +1,6 @@
-# ransomware
+# MALWARE - ransomware
+
+## Ransomware são malwares que encriptam certos arquivos e costumam ser liberados com alguma chave
 
 ### Basicamente, é um ransonware feito apenas com python
 ### Criado para fins didáticos e para aprender como funcionava
